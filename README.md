@@ -10,3 +10,8 @@ My Coding Journey
 - DSA practice started
 - ML course enrolled
 - Consistency streak begins
+
+## Day 3 - June 25, 2026
+- Learned Python basics
+- Solved 2 more LeetCode problems
+- Watched Andrew Ng ML videos
