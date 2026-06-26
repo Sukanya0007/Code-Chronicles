@@ -15,3 +15,8 @@ My Coding Journey
 - Learned Python basics
 - Solved 2 more LeetCode problems
 - Watched Andrew Ng ML videos
+
+## Day 4 - June 26, 2026
+- Solved 2 more LeetCode problems
+- Learned Python OOP basics
+- Watched 3 Coursera videos
