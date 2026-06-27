@@ -20,3 +20,8 @@ My Coding Journey
 - Solved 2 more LeetCode problems
 - Learned Python OOP basics
 - Watched 3 Coursera videos
+
+## Day 5 - June 27, 2026
+- Solved 2 more LeetCode problems
+- Learned Python advanced concepts
+- Started Coursera Week 2
