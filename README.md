@@ -25,3 +25,9 @@ My Coding Journey
 - Solved 2 more LeetCode problems
 - Learned Python advanced concepts
 - Started Coursera Week 2
+
+  ## Day 6 - June 28, 2026
+- Solved 4 LeetCode problems
+- Started LinkedIn profile optimization
+- Continued Coursera Week 2
+- Python practice done
