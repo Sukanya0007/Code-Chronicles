@@ -31,3 +31,9 @@ My Coding Journey
 - Started LinkedIn profile optimization
 - Continued Coursera Week 2
 - Python practice done
+
+## Day 7 - August 26, 2026
+- Back on track! Zero excuses from today!
+- Solved 6 LeetCode problems
+- Arrays + Strings + Hashing focus
+- Python practice done
