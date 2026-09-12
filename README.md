@@ -30,6 +30,30 @@ My Coding Journey
 - Solved 4 LeetCode problems
 - Started LinkedIn profile optimization
 - Continued Coursera Week 2
+
+- ## September 12, 2026 — Back On Track!
+
+### Today's Progress:
+- Solved 5 LeetCode problems
+- Uploaded all solutions to GitHub
+- Streak restarted!
+
+### Problems Solved:
+1. Two Sum (#1) - Easy ✅
+2. Contains Duplicate (#217) - Easy ✅
+3. Valid Anagram (#242) - Easy ✅
+4. Best Time to Buy and Sell Stock (#121) - Easy ✅
+5. Maximum Subarray (#53) - Easy ✅
+
+### Running Total:
+- LeetCode: 21 problems solved
+- GitHub: leetcode-solutions repo created
+- Topics covered: Arrays, Hashing, Strings
+
+### Tomorrow's Target:
+- 5 more LeetCode problems
+- Topic: Hashing + Sets
+- HackerRank account setup
 - Python practice done
 
 ## Day 7 - August 26, 2026
