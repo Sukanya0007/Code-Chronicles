@@ -31,6 +31,12 @@ My Coding Journey
 - Started LinkedIn profile optimization
 - Continued Coursera Week 2
 
+## Day 7 - August 26, 2026
+- Back on track! Zero excuses from today!
+- Solved 6 LeetCode problems
+- Arrays + Strings + Hashing focus
+- Python practice done
+
 - ## September 12, 2026 — Back On Track!
 
 ### Today's Progress:
@@ -56,8 +62,28 @@ My Coding Journey
 - HackerRank account setup
 - Python practice done
 
-## Day 7 - August 26, 2026
-- Back on track! Zero excuses from today!
-- Solved 6 LeetCode problems
-- Arrays + Strings + Hashing focus
-- Python practice done
+
+## September 13, 2026 — Day 9
+
+### Today's Problems Solved:
+1. Group Anagrams (#49) - Medium ✅
+2. Top K Frequent Elements (#347) - Medium ✅
+3. Valid Palindrome (#125) - Easy ✅
+4. Longest Substring Without Repeating (#3) - Medium ✅
+5. Two Sum II (#167) - Medium ✅
+
+### Topics Covered:
+- Hashing
+- Two Pointers
+- Sliding Window
+
+### Running Total:
+- LeetCode: 26 problems solved
+- Easy: 8
+- Medium: 18
+- GitHub: All solutions uploaded ✅
+
+### Tomorrow's Target:
+- 5+ more problems
+- Topic: Sliding Window + Binary Search
+- HackerRank account setup
