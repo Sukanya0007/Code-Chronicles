@@ -87,3 +87,42 @@ My Coding Journey
 - 5+ more problems
 - Topic: Sliding Window + Binary Search
 - HackerRank account setup
+
+## October 4, 2026 — Restarting My Coding Journey!
+
+### Today's Progress:
+
+* Restarted daily LeetCode practice after a break
+* Practiced Python solutions for array problems
+* Resumed documenting solutions for GitHub
+* Focusing on consistency and understanding concepts
+
+### Problems Solved:
+
+1. Plus One (#66) - Easy ✅
+2. Merge Sorted Array (#88) - Easy ✅
+3. Remove Duplicates from Sorted Array (#26) - Easy ✅
+
+### Topics Covered:
+
+* Arrays
+* Two Pointers
+* In-place Array Modification
+* Basic Problem-Solving Techniques
+
+### Running Total:
+
+* Previously recorded LeetCode total: 26
+* Newly recorded problems: 3
+* Updated total: 29 *(assuming all three are new and distinct)*
+* GitHub: Continuing the `leetcode-solutions` repository
+
+### Next Target:
+
+* Continue solving LeetCode problems
+* Practice array and two-pointer patterns
+* Upload tested solutions to GitHub
+* Build a consistent daily coding habit
+
+*Restarting is progress too. One problem at a time, one day at a time.*
+
